@@ -1,0 +1,7 @@
+name: HDEVLib
+version: '5.0'
+main: it.hdev.hDEVLib.HDEVLib
+api-version: '1.19'
+authors: [ HDEV ]
+description: Manage HDEV plugins and licenses
+website: https://hdev.it
