@@ -1,5 +1,5 @@
 // src/main/java/it/hdev/hDEVLib/simpledatabase/SQLiteDatabase.java
-package it.hdev.hDEVLib.simpledatabase;
+package it.hdev.hDEVLib.api.simpledatabase;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,7 +7,6 @@ import org.slf4j.LoggerFactory;
 import java.io.Serializable;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class SQLiteDatabase extends SQLDatabase {

@@ -1,4 +1,4 @@
-package it.hdev.hDEVLib.simpledatabase;
+package it.hdev.hDEVLib.api.simpledatabase;
 
 public class DatabaseException extends Exception {
     public DatabaseException(String message) {

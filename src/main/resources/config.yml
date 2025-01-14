@@ -1,0 +1,9 @@
+databases:
+  # all active plugins using the database API will be configurable here
+  hyperpets:
+    type: SQLITE # valid: MARIADB, MYSQL, SQLITE, REDIS
+    name: hpet
+    host: localhost
+    port: 3306
+    user: user
+    password: password

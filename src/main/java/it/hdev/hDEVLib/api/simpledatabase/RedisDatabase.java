@@ -1,4 +1,4 @@
-package it.hdev.hDEVLib.simpledatabase;
+package it.hdev.hDEVLib.api.simpledatabase;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
